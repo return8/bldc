@@ -1,8 +1,9 @@
 /*
  * MotorControl.c
- *
+ * Part of BLDC motor control software
  *  Created on: Jul 19, 2021
- *      Author: A
+ *      Author: 
+ *  STM32F746 MCU
  */
 
 #include "device.h"
